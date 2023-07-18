@@ -2,5 +2,6 @@
 
 
 ## Notes
-Break tasks down into very small deliverables, PR for each deliverable
-Associated task assigned on github projects.
+- Break tasks down into very small deliverables, PR for each deliverable
+- Associated task assigned on github projects.
+- Fetch/ pull procedure clearly outlined somewhere
