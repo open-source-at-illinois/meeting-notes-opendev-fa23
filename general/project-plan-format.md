@@ -19,10 +19,14 @@ Notes for why this is a good choice
 Website hosting ~ $45 one time fee
 5 Raspberry Pi - $30 each ~ $150
 
-** Semester Plan**
+**Semester Plan**
+
 Week 1: Introduction to frontend
+
 Week 2: Using frontend to develop specific component
+
 ...
+
 Week 15: Finalizng website and packaging
 
 ## Project 2: Name
@@ -44,10 +48,14 @@ Notes for why this is a good choice
 Website hosting ~ $45 one time fee
 5 Raspberry Pi - $30 each ~ $150
 
-** Semester Plan**
+**Semester Plan**
+
 Week 1: Introduction to frontend
+
 Week 2: Using frontend to develop specific component
+
 ...
+
 Week 15: Finalizng website and packaging
 
 ## Project 3: Name
@@ -69,8 +77,10 @@ Notes for why this is a good choice
 Website hosting ~ $45 one time fee
 5 Raspberry Pi - $30 each ~ $150
 
-** Semester Plan**
+**Semester Plan** 
+
 Week 1: Introduction to frontend
+
 Week 2: Using frontend to develop specific component
 ...
 Week 15: Finalizng website and packaging
