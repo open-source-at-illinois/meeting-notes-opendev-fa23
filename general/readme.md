@@ -3,10 +3,11 @@
 ### Meeting protocols
 
 ### Project management protocols
-
+draft
 SCRUM <a href="https://github.com/open-source-at-illinois/meeting-notes-opendev-fa23/blob/main/general/project-management.md"> read details </a>
 
 ### Git protocols
+draft
 GIT protocols <a href="https://github.com/open-source-at-illinois/meeting-notes-opendev-fa23/blob/main/general/git-protocols.md"> read details </a>
 ### Bi-weekly OpenDev Meeting
 In Person meeting between all members and project leads from OpenDev.
