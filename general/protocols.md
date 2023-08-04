@@ -4,7 +4,7 @@
 
 ### Project management protocols
 
-SCRUM
+SCRUM <a href="https://github.com/open-source-at-illinois/meeting-notes-opendev-fa23/blob/main/general/project-management.md"> read details </a>
 
 ### Git protocols
 
