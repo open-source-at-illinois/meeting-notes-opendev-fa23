@@ -24,3 +24,4 @@ Goal is community building
 - Associated task assigned on github projects.
 - Fetch/ pull procedure clearly outlined somewhere
 - Add clear tags to issues. Allows them to be found by others.
+- contributing.md
