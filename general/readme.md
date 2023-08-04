@@ -23,3 +23,4 @@ Goal is community building
 - Break tasks down into very small deliverables, PR for each deliverable
 - Associated task assigned on github projects.
 - Fetch/ pull procedure clearly outlined somewhere
+- Add clear tags to issues. Allows them to be found by others.
