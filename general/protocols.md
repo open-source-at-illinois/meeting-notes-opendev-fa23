@@ -4,6 +4,8 @@
 
 ### Project management protocols
 
+SCRUM
+
 ### Git protocols
 
 ### Bi-weekly OpenDev Meeting
