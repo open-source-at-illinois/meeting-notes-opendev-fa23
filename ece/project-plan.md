@@ -71,6 +71,14 @@ Total: ~180
 
 Will the FPGA be able to run linux?
 
+What software for PCB design?
+
+How to implement USB, ethranet etc
+- how it connects on the PCB
+
+Breakdown and lesson plan
+
+
 
 
 ### Resources
