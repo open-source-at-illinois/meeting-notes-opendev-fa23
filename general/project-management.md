@@ -14,8 +14,6 @@ Backlog: Maintain a product backlog for the entire club, where you list all the 
 
 Sprint Planning: At the beginning of each sprint, hold a sprint planning meeting. The Product Owner and the respective project lead collaborate to prioritize and select tasks from the backlog for the upcoming sprint.
 
-Daily Standups: Conduct daily standup meetings. Each team member, including project leads, briefly shares what they worked on yesterday, what they'll work on today, and if they have any blockers.
-
 Sprint Review: At the end of each sprint, hold a sprint review meeting. Each project team demonstrates the completed work to the club, including any prototypes, designs, or code developed during the sprint.
 
 Sprint Retrospective: Also at the end of each sprint, have a retrospective meeting where teams discuss what went well, what could be improved, and how to enhance the process for the next sprint.
