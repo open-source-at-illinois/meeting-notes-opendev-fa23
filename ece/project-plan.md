@@ -66,6 +66,13 @@ Fabrication per board: $40
 
 Total: ~180
 
+
+### Considerations
+
+Will the FPGA be able to run linux?
+
+
+
 ### Resources
 Phils Lab FPGA Design Sequence
 
