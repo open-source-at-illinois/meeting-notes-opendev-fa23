@@ -27,3 +27,10 @@ Task Distribution: During sprint planning, distribute tasks based on team member
 Rotating Responsibilities: Given that you have multiple project subjects, you could consider rotating team members across projects to maintain engagement and learning opportunities.
 
 Remember that Agile frameworks are designed to be flexible, so feel free to adapt the approach as needed to suit your club's unique dynamics and goals. The key is to maintain open communication, foster collaboration, and continuously improve your processes based on feedback from your teams.
+
+
+## Notes
+
+Difficult to get tasks done if people are not committed to working
+
+How to incorporate learning into it- small learning tasks, review at the end of the week
