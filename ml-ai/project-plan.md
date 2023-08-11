@@ -22,3 +22,19 @@ This ML-ai project is to develop an AI-chatbot tailored for UIUC students by tra
 
 
 ## Tools
+
+Entirely software
+- Frontend for website: React, Svelte, Vue
+- Choice of Model: LLama 2, maybe gpt
+- Frameworks: Python, LLamaindex, Langchain, possiblly Rasa
+- Replicate (if needed)
+
+## Cost considerations
+- No explicit hardware required
+- Hosting our website or custom language model (use [replicate](https://replicate.com/) for running model on cloud)
+- Premium services for accessing certain API keys
+## Resources
+
+Some videos creating ai chatbots with custom knowledge base
+- https://youtu.be/sUSw9MaPm2M
+- https://youtu.be/iGZ0cV-SRLI
