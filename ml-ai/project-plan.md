@@ -33,6 +33,8 @@ Entirely software
 - No explicit hardware required
 - Hosting our website or custom language model (use [replicate](https://replicate.com/) for running model on cloud)
 - Premium services for accessing certain API keys
+- Roughly **$100** for hosting purposes, **$50** for premium services for a total of **$150** (this would be per month, but we don't necessarily need these services for many months).
+  
 ## Resources
 
 Some videos creating ai chatbots with custom knowledge base
