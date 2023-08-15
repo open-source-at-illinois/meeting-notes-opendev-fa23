@@ -7,6 +7,18 @@ General Guidelines:
 - https://www.oshwa.org/
 - https://hackster.io/
 
+## Final Project: An exploration of VDO.Ninja and an introduction to contributing to open-source projects
+### Semester Plan
+Planned project span: 14 weeks
+
+1. Exploration of the project, trying to run the project, finding issues, making project plans (2 weeks)
+2. Learning the required tools used to contribute to VDO.Ninja, setting up a development environment (2 weeks + ongoing)
+3. Two development sprints (simple feature enhancements like #730, #802, #656, #679) (2x2 weeks)
+4. First integration/buffer week
+5. Two development sprints (either more enhancements or bug fixes like #474, #600) (2x2 weeks)
+6. Second integration/buffer week
+
+If parts 1 and 2 take longer, we'll skip out on integration weeks
 
 ## Open-Source Input Devices
 Could be any input device. Could be a video game controller, mouse, joystick/trackpoint, keyboard, etc. 
