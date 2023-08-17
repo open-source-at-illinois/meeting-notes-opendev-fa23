@@ -66,6 +66,30 @@ Fabrication per board: $40
 
 Total: ~180
 
+### Parts Procurement Logistics
+When ordering from Digikey,
+any items ships in 3-5 business days.
+Any product out of stock will be available within the manufacturer's lead time, which is a generally accurate estimate for when the product will be in Digikey's stock.
+
+Our Development board is in stock, and while FPGA IC and Memory has been fixed, the exact layout variant is yet to be decided and this will be done in the initial stages of the layout design.
+
+FPGA: Lead Time ~8 Weeks
+In Stock for certain pinouts
+
+Memory: Readily in stock (in the thousands)
+
+Interfaces:
+PCBWay has component supply services that should work
+for Ethernet (modular adapter), USB-C (SMT)
+
+Capacitors:
+SMT Capacitors are readily available through PCBWay
+
+### Board Production
+
+We will be using PCBWay and production will be straightforward once we have to schematic ready. Production and Delivery once we submit the design take ~20 days.
+
+We can estimate building 3 board (if the design before doesn't work) fully assembled.
 
 ### Considerations
 
@@ -73,13 +97,35 @@ Will the FPGA be able to run linux?
 
 What software for PCB design?
 
-How to implement USB, ethranet etc
+How to implement USB, ethernet etc
 - how it connects on the PCB
 
-Breakdown and lesson plan
+### Lesson plan
+- Week 1: Introduction to FPGAs and PCBs: What is a computer as a semiconductor device? What parts make a modern computing machine? Meta: What is an ISA and what role does it play in the computing stack? What is an FPGA as a semiconductor device? How can it be used? Overview of the PCB Design process: Making a schematic, and then routing. What electronics theory is necessary?
 
+- Week 2: FPGA Deepdive: Break down the internal layout of a modern FPGA. Who makes FPGAs and how? What is a hard/soft core? What is a bitstream? How can someone use an HDL to run a program on an FPGA? How are the FPGA's memory and peripherals used?
 
+- Week 3: Demo running picoriscv32 on the FPGA Development board. Show a RISCV validation program running on the device.
 
+- Week 4: Introduction to KiCad and abstract overview of the PCB Design process.
+
+- Week 5: Setting up a board, and numerating our components and compartmentalising them into groups. What groups? Power, Signals, Memory, I/O.
+
+- Week 6: FPGA Subsystem: Understanding all pinouts and banks of our FPGA. Set certain pins to certain purposes ahead of time since we should have a prototype schematic ready. Understanding how we will use Efinix's propreitary subsystems to program it.
+
+- Week 7: Power. How to power the components of the circuit? How to thing about voltage and power as a PCB Designer? How to use buck converters and to ensure stable power supply to components
+
+- Week 8: Connecting the FPGA to Memory. Understanding DDR3 pin layout, and connect it to FPGA.
+
+- Week 9: I/O: Connecting FPGA to USB-C and Ethernet.
+
+- Week 10: PCB Layout Phase: Make the 3d model of the Circuit. Explain layout, layers, traces and silkscreens.
+
+(get PCB assembled)
+
+- Week 11: Program FPGA and upload SonicBOOM with LiteX IP using Efinix Efinity. Demo
+
+(This schedule is very airtight and we can add more time between weeks to get work done)
 
 ### Resources
 Phils Lab FPGA Design Sequence
